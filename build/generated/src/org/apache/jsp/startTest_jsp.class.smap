@@ -1,0 +1,42 @@
+SMAP
+startTest_jsp.java
+JSP
+*S JSP
+*F
++ 0 startTest.jsp
+startTest.jsp
++ 1 header.html
+template/header.html
++ 2 usermenu.html
+template/usermenu.html
++ 3 footer.html
+template/footer.html
+*L
+1,13:77
+14:90,9
+15,11:99
+26,9:111
+34,8:120
+41:161,9
+42,5:170
+1#1,27:175
+46#0,5:202
+1#2,30:207
+50#0,14:236
+63:316,13
+64:329
+64:358,13
+64,2:332
+65:391,11
+66:402
+66:432,14
+66,3:405
+68,2:336
+69,6:252
+74:467,5
+74,12:260
+1#3,23:272
+85#0,4:294
+88,4:130
+91:143
+*E

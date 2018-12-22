@@ -1,0 +1,18 @@
+/* 
+    Document   : design
+    Created on : May 17, 2015, 12:39:19 PM
+    Author     : Nancy
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+ .Alter tr:nth-child(odd){background:#CC6633;}
+ .Alter tr:nth-child(even){background:#CC3333;}
+ .Alter th{background:#CC9999;}
+ h1 {color:#6699cc}
+

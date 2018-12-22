@@ -1,0 +1,18 @@
+SMAP
+adminmenu_jsp.java
+JSP
+*S JSP
+*F
++ 0 adminmenu.jsp
+template/adminmenu.jsp
+*L
+1,50:55
+50:148,11
+51:159,8
+52,2:167
+53,12:107
+64:193,11
+65:204,6
+66,2:210
+67,11:121
+*E
